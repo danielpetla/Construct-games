@@ -1,0 +1,33 @@
+﻿{
+	"version": 1791476436,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/john-sheet0.png",
+		"images/john-sheet1.png",
+		"images/bobby-sheet0.png",
+		"images/bobby-sheet1.png",
+		"images/readyfight-sheet0.png",
+		"images/player1winlose-sheet0.png",
+		"images/player2winlose-sheet0.png",
+		"images/ko-sheet0.png",
+		"images/templatetitle-sheet0.png",
+		"images/pressenter-sheet0.png",
+		"images/title-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite-sheet1.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
